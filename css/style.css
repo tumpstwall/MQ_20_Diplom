@@ -92,9 +92,9 @@ body {
   flex-wrap: wrap;
   flex-direction: column;*/
   
-  margin: 15.5vw auto 0 auto;
+  margin: 14.1vw auto 0 auto;
 
-  width: 85vw;
+  width: 73vw;
   text-transform: uppercase;
   color: #ffffff;
 }
@@ -105,8 +105,8 @@ body {
   margin-top: 0px;
   margin-bottom: 0px;
 
-  font-size: 5.2vw;
-  line-height: 5.2vw;
+  font-size: 4.5vw;
+  line-height: 5vw;
 
   font-weight: bold;
 }
@@ -117,8 +117,8 @@ body {
 
 .download-buttons {
   margin: 0 auto;
-  padding-top: 12.3vw;
-  padding-bottom: 6.5vw;
+  padding-top: 10.5vw;
+  padding-bottom: 5.7vw;
 
   display: flex;
   flex-wrap: nowrap;
@@ -137,7 +137,7 @@ body {
   background-color: #5e42b0;
   border-radius: 2.5vw;
 
-  width: 17.5vw;
+  width: 15.9vw;
 }
 
 .download-button:last-child {
@@ -145,7 +145,7 @@ body {
 }
 
 .app-icon {
-  width: 2.9vw;
+  width: 2.5vw;
 }
 
 .download-button-text {
@@ -154,7 +154,7 @@ body {
   flex-direction: column;
   align-items: baseline;
 
-  margin: 1vw 0px 1vw 1.2vw;
+  margin: 1vw 0px 1vw 1.6vw;
   
   font-size: 0.7vw;
   font-family: 'Open Sans', Arial, Helvetica, sans-serif;
@@ -191,11 +191,11 @@ body {
 .athlet-post-image {
   position: absolute;
   top: 1.6vw;
-  padding-left: 17.3vw;
+  padding-left: 20.3vw;
 }
 
 .athlet-image {
-  width: 32vw;
+  width: 30vw;
 }
 
 .athlet-post {
@@ -204,8 +204,8 @@ body {
 }
 
 .post-content {
-  padding-top: 3.1vw;
-  padding-bottom: 3.3vw;
+  padding-top: 2.1vw;
+  padding-bottom: 3.4vw;
 }
 
 .backround-light {
@@ -225,7 +225,7 @@ body {
 }
 
 .post-title-container {
-  padding: 5.7vw 0vw 2.6vw;
+  padding: 5.7vw 0vw 1.6vw;
 }
 
 .posts-title {
@@ -308,16 +308,16 @@ body {
 
 .player-post-image {
   position: absolute;
-  top: 1vw;
-  padding-left: 42%;
+  top: 1.6vw;
+  padding-left: 43%;
 }
 
 .player-image {
-  width: 54vw;
+  width: 49vw;
 }
 
 .player-post {
-  padding-left: 6.3vw;
+  padding-left: 9.3vw;
 }
 
 /*Шаги по работе с тренером и командой*/
@@ -340,7 +340,7 @@ body {
 
   position: absolute;
   right: calc(50% - 4.65vw);
-  top: 11.6vw;
+  top: 10.6vw;
 }
 
 .steps-number span {
@@ -375,7 +375,7 @@ body {
 
 .steps-description {
   padding-top: 13.6vw;
-  padding-left: 6.8vw;
+  padding-left: 9.8vw;
   width: 50%;
   box-sizing: border-box;
 }
@@ -391,11 +391,11 @@ body {
 }
 
 .step-description {
-  margin-top: 6vw;
+  margin-top: 3vw;
 }
 
 .step-description p {
-  margin: 6.25vw 0px 0px 0px;
+  margin: 0px;
   width: 30vw;
   
   font-size: 1.25vw;
@@ -434,7 +434,7 @@ body {
 
   z-index: 1;
 
-  padding-top: 12vw;
+  padding-top: 14vw;
 }
 
 .footer-title {
