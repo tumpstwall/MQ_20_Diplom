@@ -237,6 +237,8 @@ body {
 
 .post-title-container {
   padding: 5.7vw 0vw 1.6vw;
+  padding-left: 53%;
+  padding-right: 10vw;
 }
 
 .posts-title {
@@ -277,7 +279,7 @@ body {
   content: "";
   bottom: -1.5px;
   width: 100%;
-  height: 6px;
+  height: 4px;
 
   position: absolute;
   background: #5e42b0;
@@ -315,6 +317,10 @@ body {
 .players {
   display: flex;
   justify-content: center;
+}
+
+.players .post-title-container {
+  padding-left: 10vw;;
 }
 
 .player-post-image {
@@ -419,6 +425,7 @@ body {
 
 .find-contact-description {
   padding-left: 10vw;
+  padding-right: 8vw;
 }
 
 .step-description p {
@@ -619,7 +626,7 @@ body {
   }
 
   .post-title-container {
-    padding: 0vw;
+    padding: 0vw 1vw 0vw 38vw;
   }
   
   .athlet-post {
@@ -698,6 +705,10 @@ body {
   
   .player-post {
     padding-left: 4.2vw;
+  }
+
+  .players .post-title-container {
+    padding-left: 4vw;
   }
   
   /*Шаги по работе с тренером и командой*/
@@ -982,6 +993,11 @@ body {
   .post-content:nth-child(n+3) {
     padding-top: 18.2vw;
   }
+
+  .post-title-container {
+    padding-left: 6.25vw;
+    padding-right: 0.1vw;
+  }
   
   .posts-title {
     margin: 0vw 0vw 70.6vw;
@@ -1034,6 +1050,10 @@ body {
   }
   
   .player-post {
+    padding-left: 4.2vw;
+  }
+
+  .players .post-title-container {
     padding-left: 4.2vw;
   }
   
